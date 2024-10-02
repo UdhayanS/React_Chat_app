@@ -1,0 +1,21 @@
+[debug] [2024-10-02T09:51:49.733Z] ----------------------------------------------------------------------
+[debug] [2024-10-02T09:51:49.737Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\UDHAYAN\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-02T09:51:49.737Z] CLI Version:   13.20.2
+[debug] [2024-10-02T09:51:49.737Z] Platform:      win32
+[debug] [2024-10-02T09:51:49.738Z] Node Version:  v20.12.0
+[debug] [2024-10-02T09:51:49.738Z] Time:          Wed Oct 02 2024 15:21:49 GMT+0530 (India Standard Time)
+[debug] [2024-10-02T09:51:49.738Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-02T09:51:49.744Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-02T09:51:49.745Z] > authorizing via signed-in user (sudhayan2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\UDHAYAN\OneDrive\Documents\React\chat-app
+
